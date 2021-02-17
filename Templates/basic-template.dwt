@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/qdy8lhk.css">
+<link rel="stylesheet" href="https://use.typekit.net/qdy8lhk.css">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">  
+<link href="https://fonts.googleapis.com/css2?family=Langar&family=Roboto:wght@300&display=swap" rel="stylesheet">
+<!-- TemplateBeginEditable name="head" -->
+	<style type="text/css">
+	
+	
+	</style>
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="container">
+  <header></header>
+  <nav>
+	<ul>
+		    <li><a href="../index.html">Home</a> </li> 
+		    <li><a href="aboutMe.html">About</a> </li>  
+			<li><a href="blog.html">Blog</a></li>
+			<li><a href="../pages/gallery.html">Gallery</a></li>
+		<li><a href="contact.html">Contact</a></li>
+	</ul>
+	
+  </nav>
+  <!--begin floated elements-->
+  <aside>
+    <h3>I' m a teacher, an OG, a guitar player, and a jack of all trades, master of none.</h3>
+  </aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>Page title</h1>
+  </main>
+  <!-- TemplateEndEditable --><!--ends floated elements-->
+  <footer><p>Content for New footer Tag Goes Here</p></footer>
+</div><!--Closes DIV Container-->
+</body>
+</html>
